@@ -1,0 +1,4 @@
+.MainDiv{
+    display: flex;
+    flex-wrap: wrap;
+}
